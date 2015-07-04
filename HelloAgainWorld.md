@@ -1,0 +1,2 @@
+## This is another markdown file
+I did the coursea lesson but accidently deleted the output of the git add command.  Therefore I am making this file so that i can see the output again and save it my notes.
